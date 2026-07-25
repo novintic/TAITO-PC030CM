@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"1uF 50V","C1,C2,C3,C4","Capacitor_SMD:C_0805_2012Metric","C5422"
+"10nF","C6,C7,C8","Capacitor_SMD:C_0805_2012Metric","C1710 "
+"1N4001","D1,D2","Diode_SMD:D_SMA","1N4001"
+"470R","R1,R7,R16,R19","Resistor_SMD:R_0805_2012Metric","C17710"
+"27R(1W)","R11,R12,R13,R14","Resistor_SMD:R_2512_6332Metric","C25478"
+"4.7K","R2,R8","Resistor_SMD:R_0805_2012Metric","C17673"
+"1K","R3,R9,R15,R20","Resistor_SMD:R_0805_2012Metric","C17513"
+"100R","R4,R10","Resistor_SMD:R_0805_2012Metric","C17408"
+"22K","R5,R6,R17,R18","Resistor_SMD:R_0805_2012Metric","C101971"
+"1N4733","ZD1,ZD2,ZD3,ZD4","Diode_SMD:D_SMA","C5266707"
