@@ -4,6 +4,6 @@ If missing or corrupt, the board will report I/O error.
 
 The coin-counter function has not been tested as we don't have any such counters.
 
-Please understand tha we are not able to offer any support. Use at your own risk. Thank you.
+Please understand that we are not able to offer any support. Use at your own risk. Thank you.
 
 NOVINTIC 2026
